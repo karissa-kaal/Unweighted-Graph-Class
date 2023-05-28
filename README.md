@@ -24,7 +24,6 @@ You can use this class to create an unweighted graph and perform different opera
     // Print the result
     std::cout << "Is the graph connected? " << (isConnected ? "Yes" : "No") << std::endl;
     std::cout << "Does the graph have a cycle? " << (hasCycle ? "Yes" : "No") << std::endl;
-}
 ```
 
 Make sure to include the `unweightedGraph.h` header file in your project and compile it along with the implementation file.
